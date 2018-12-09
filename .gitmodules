@@ -1,0 +1,3 @@
+[submodule "login-form-react-frontend"]
+	path = login-form-react-frontend
+	url = https://github.com/lazycatz74/login-form-react-frontend
